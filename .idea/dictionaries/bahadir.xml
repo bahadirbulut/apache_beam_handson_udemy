@@ -2,6 +2,8 @@
   <dictionary name="bahadir">
     <words>
       <w>createlistoftuples</w>
+      <w>keyval</w>
+      <w>pardo</w>
     </words>
   </dictionary>
 </component>
