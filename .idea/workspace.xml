@@ -25,6 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -38,5 +39,11 @@
       <updated>1589968188642</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1451" y="-240" key="SettingsEditor" timestamp="1589969642823">
+      <screen x="-1920" y="-373" width="1920" height="989" />
+    </state>
+    <state x="-1451" y="-240" key="SettingsEditor/-1920.-373.1920.989/0.23.1280.777@-1920.-373.1920.989" timestamp="1589969642823" />
   </component>
 </project>
